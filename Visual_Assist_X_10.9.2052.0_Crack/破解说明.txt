@@ -1,0 +1,16 @@
+VS2008以及更低版本
+  将VA_X.dll拷贝到安装目录覆盖同名文件。
+
+VS2010
+  将VA_X.dll拷贝到以下目录覆盖同名文件。
+  (Win7) C:\Users\用户名\AppData\Local\Microsoft\VisualStudio\10.0\Extensions\Whole Tomato Software\Visual Assist X\10.9.2052.0
+  (XP)   C:\Documents and Settings\用户名\Local Settings\Application Data\Microsoft\VisualStudio\10.0\Extensions\Whole Tomato Software\Visual Assist X\10.9.2052.0
+
+VS2012
+  C:\Users\用户名\AppData\Local\Microsoft\VisualStudio\11.0\Extensions下的随机名称目录中，手动进入寻找，找到VA_X.dll并替换
+
+VS2013
+  C:\Users\用户名\AppData\Local\Microsoft\VisualStudio\12.0\Extensions下的随机名称目录中，手动进入寻找，找到VA_X.dll并替换
+
+
+破解后虽然仍然是trail试用版，但是已经没有使用时间限制。
